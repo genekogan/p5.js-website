@@ -101,6 +101,27 @@
       <div class="spacer"></div>
 
       <div class="left-column">
+        <a class="nounderline" href="transformations/">
+        <div class="label">
+        <img src="../img/learn/lib_placeholder.jpg"></a>
+        <a class="nounderline" href="transformations/"><h4>Coordinate transformations</h4></a>
+        </div>
+        <p>Transformations of the coordinate system for symmetry and iteration</p>
+      </div>
+
+
+      <div class="right-column">
+        <a class="nounderline" href="perlin-noise/">
+        <div class="label">
+        <img src="../img/learn/lib_placeholder.jpg"></a>
+        <a class="nounderline" href="perlin-noise/"><h4>Perlin noise</h4></a>
+        </div>
+        <p>Working with perlin noise to create controlled and organic random behavior</p>
+      </div>
+
+      <div class="spacer"></div>
+
+      <div class="left-column">
         <a class="nounderline" href="https://github.com/processing/p5.js/wiki/Local-server">
         <div class="label">
         <img src="../img/learn/lib_placeholder.jpg"></a>
